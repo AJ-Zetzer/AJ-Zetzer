@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJ-Zetzer
 - 👀 I’m interested in cyber security and software engineering
-- 🌱 I’m =a Computer Science student at MSU 
+- 🌱 I’m a Computer Science student at MSU 
 - 💞️ I’m looking to collaborate on stuff and things
 - 📫 How to reach me ajzetzer@gmail.com
 - 😄 Pronouns: he/him
